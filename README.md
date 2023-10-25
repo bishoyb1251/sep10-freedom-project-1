@@ -1,15 +1,15 @@
 # SEP10 Freedom Project
-by **X**
+by Bishoy Bebawy
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of Accounting. I chose this route well because well I have not always been intrested in it but I see that it allows you to work with important courses such as science ,math and much more. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study CSS and HTML in order to help me make by website.
 
 ## Links
-
+Some links that I used in otr 
 [Product]()
 
 [Presentation]()
