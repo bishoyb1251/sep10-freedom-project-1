@@ -1,17 +1,15 @@
 # SEP10 Freedom Project
-by **X**
+by Bishoy Bebawy
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
-
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+For my project, I chose the topic of Accounting. I like Accounting for many reasons one being the fact that in order to know accounting yuou have to know math,science, and other important school things. Accounting is important for mant things including sometimes filing taxes getting applications and even coding.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study HtMl And CSS and some hints of freecodecamp in order to help me make by website.
 
 ## Links
-
-[Product]()
-
+Some links I used were this link [RIGHT HEREEE](https://online.champlain.edu/blog/day-in-the-life-of-an-accountant) 
+ 
 [Presentation]()
 
 ## Implications
