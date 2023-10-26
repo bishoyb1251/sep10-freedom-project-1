@@ -8,15 +8,16 @@ For my project, I chose the topic of Accounting. I like Accounting for many reas
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study HtMl And CSS and some hints of freecodecamp in order to help me make by website.
 
 ## Links
-Some links I used were this link [RIGHT HEREEE](https://online.champlain.edu/blog/day-in-the-life-of-an-accountant) 
+Some links I used were this link [RIGHT HEREEE](https://online.champlain.edu/blog/day-in-the-life-of-an-accountant) ANd more like [THISSS](https://www.futurefit.co.uk/blog/a-day-in-the-life-of-a-pilates-teacher-jo-curran)
  
 [Presentation]()
 
 ## Implications
 ##### PROS
-* 
+* There are alot of pros about Accounting one being that you can sit in front of a computer and helo people out.
+* More pros are if you like the job you want to do it you can play games in your free time
 ##### CONS
-* 
+* Some cons are that when you dont know what to do becauase buisness is running slow you just sit there in front of a computer doing nothing.
 
 
 ## Blog
